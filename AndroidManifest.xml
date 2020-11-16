@@ -1,0 +1,6 @@
+
+permission/01priority/01screenOrientation/01
+
+minSdkVersion/01versionCod/01versionName/01targetSdkVersion\00\00\00		3.0.28662/01action/01activity/01android/01$$android.intent.action.BOOT_COMPLETED/01android.intent.action.MAIN\01android.intent.category.DEFAULT\01  android.intent.category.LAUNCHER/01##android.permission.BIND_JOB_SERVICE/01))android.permission.RECEIVE_BOOT_COMPLETE/01))android.permission.WRITE_EXTERNAL_STORAGE/01application/01category/01**http://schemas.android.com/apk/res/android/01
+
+intent-filter/01manifest/01package/01receiver/01service/01tangerine.tangerine/01tangerine.tangerine.Bark/01tangerine.tangerine.Grove/01tangerine.tangerine.Jungle/01tangerine.tangerine.Shrub/01tangerine.tangerine.Wood/01uses-permission/01uses-sdk
